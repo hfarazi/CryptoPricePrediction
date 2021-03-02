@@ -15,10 +15,12 @@ I used these as features:
 
 You are free to use this code for any purpose, including but not limited to: education, trading, business.
 
-You can donate to me in bitcoin ₿!:
+:moneybag: You can donate to me in bitcoin ₿!:
+
 1JPTV3RzKqiMpPtJrbiR8XWLtmYjCaEtZn
 
-![QR code]("btc.png") 
+![image2](btc.png)
+
 
 ### :stop_sign: Warning: USE THIS CODE ON YOUR OWN RISK! Crypto markets are extremely volatile, and you might lose all of your money! 
 
