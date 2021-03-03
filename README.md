@@ -1,6 +1,6 @@
 # CryptoPricePrediction
 
-This is my ***failed*** attempt to get rich by predicting the price change of bitcoin using deep learning models (LSTM, FC, and even CNN!)
+This is my ***failed*** attempt to get rich by predicting the price change of bitcoin using deep learning models (GRU, FC, and even CNN!)
 
 I used these as features:
 * Twitter sentiment analysis using BERT
